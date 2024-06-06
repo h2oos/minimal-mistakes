@@ -120,7 +120,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: wzheng21@gmu.edu
+      # url: wzheng21@gmu.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: https://h2oos.github.io/
